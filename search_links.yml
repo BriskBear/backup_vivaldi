@@ -1,0 +1,31 @@
+Search Links:
+  GitHub: 
+    url: https://github.com/search?q=%s&type=repositories
+    shortcut: gh
+  Node Package Manager:
+    url: https://www.npmjs.com/search?q=%s
+    shortcut: npm
+  Python Packages:
+    url: https://pypi.org/search/?q=%s
+    shortcut: pip
+  Python Documentation:
+    url: https://www.python.org/search/?q=%s&submit=
+    shortcut: py
+  Ruby Gems:
+    url: https://rubygems.org/search?query=%s
+    shortcut: gem
+  Arch Linux Packages:
+    url: https://archlinux.org/packages/?sort=&q=%s&maintainer=&flagged=
+    shortcut: ap
+  Arch Linux User Repositories:
+    url: https://aur.archlinux.org/packages?O=0&K=%s
+    shortcut: aur
+  Arch Linux Wiki:
+    url: https://wiki.archlinux.org/index.php?search=%s&title=Special%3ASearch&wprov=acrw1_-1
+    shortcut: aw
+  Alpine Linux Packages:
+    url: https://pkgs.alpinelinux.org/packages?name=%s&branch=edge&repo=&arch=&maintainer=
+    shortcut: alp
+  Alpine Linux Wiki:
+    url: https://wiki.alpinelinux.org/w/index.php?search=%s&title=Special%3ASearch&wprov=acrw1_-1
+    shortcut: alw
